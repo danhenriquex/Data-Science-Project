@@ -1,4 +1,4 @@
-# Data-Science-Project
+# Data analysis of COVID-19 and Status of the PL
 
 
 This project has been developed during the discipline Introduction To Data Science.
