@@ -1,10 +1,10 @@
 # Data analysis of COVID-19 and Status of the PL
 
 
-This project has been developed during the discipline Introduction To Data Science.
+This project was developed during the course Introduction To Data Science.
 
-We use Python with some libraries like Pandas, Numpy, Seaborn, Matplotlib and others.
+We used Python with some libraries as Pandas, Numpy, Seaborn, Matplotlib and others.
 
-The main goal of this project is to take a dataset and make analyzes.
+The main goal of this project was to use a dataset and perform analyzes.
 
 
